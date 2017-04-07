@@ -1,8 +1,8 @@
 # SUDOKU(9x9) Solver
 
--Sudoku solver for 9x9 problems.
--Brute force implementation.
--Does guessing and if wrong backtracks.
+-Sudoku solver for 9x9 problems.  
+-Brute force implementation.  
+-Does guessing and if wrong backtracks.  
 
 ### To Execute:-
 
