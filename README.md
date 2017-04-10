@@ -14,3 +14,6 @@ Download the source code or copy paste it.
 ```
 
 Give the numbers as inputs and give -1 for the blanks (from left to right, top to bottom).
+
+### To Do:-
+- The possible values in each blank is now calculated in every iteration. This can be optimized by only updating the possible values on the row, column and square grid(3x3) when a blank is filled.
